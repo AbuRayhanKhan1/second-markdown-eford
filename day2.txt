@@ -1,2 +1,3 @@
-ECHO is on. this is new text of day2
+this is new text of day2
 it is for on diff function
+29.1.23 
